@@ -1,7 +1,9 @@
-# Alex Egerev's README Generator Webpage
+# Alex Egerev's Job Generator App Using MySQL
 
-![image](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/7b3bc392-6a0c-40d3-86ad-c0543857c6e1)
-![image](https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/4adc4f88-3256-4731-a22e-54bdda35f62d)
+![image](https://github.com/upennbootcamp23/egerev_MySQL-job-generator/assets/143010411/f6100213-dbdd-487e-bcd2-594ea9c59e6f)
+
+![image](https://github.com/upennbootcamp23/egerev_MySQL-job-generator/assets/143010411/cf97fea6-9fba-4479-8299-a16f134f9de4)
+
 
 
 ## Description
@@ -50,6 +52,4 @@ Other than that, I can safely say that the content of this project is my own, or
 Please refer to the LICENSE in the repo.
 
 ## Demonstration
-Because the SVG file is not deployed on GitHub Pages, I am providing the link on how I created the README file. <
-
-https://github.com/upennbootcamp23/egerev_SVG-generator/assets/143010411/3f048c24-7bab-4640-a0b4-5bfab9034fe6
+Because the app is not deployed on GitHub Pages, I am providing the link on how I created the app. <https://github.com/upennbootcamp23/egerev_MySQL-job-generator/assets/143010411/6fa34311-a347-4ba2-9e50-6e263328a7a0 >
