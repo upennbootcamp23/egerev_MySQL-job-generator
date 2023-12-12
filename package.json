@@ -1,0 +1,34 @@
+{
+  "name": "egerev_mysql-job-generator",
+  "version": "1.0.0",
+  "description": "This allows the user to add, delete, or update fields based on the given question. This works with the database.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "\"\\\"echo \\\\\\\"Error: no test specified\\\\\\\" && exit 1\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upennbootcamp23/egerev_MySQL-job-generator.git"
+  },
+  "keywords": [
+    "Database",
+    "Employees"
+  ],
+  "author": "Alexander Egerev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upennbootcamp23/egerev_MySQL-job-generator/issues"
+  },
+  "homepage": "https://github.com/upennbootcamp23/egerev_MySQL-job-generator#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "console.table": "^0.10.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^3.6.5",
+    "table": "^6.8.1"
+  }
+}
